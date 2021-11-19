@@ -1,0 +1,54 @@
+.App-text.about {
+  max-width: 450px;
+  margin: 12px auto;
+}
+.about-text__title {
+  text-align: left;
+  font-size: 1.75rem;
+  vertical-align: middle;
+  font-size: 2rem;
+}
+.about-text__title-big {
+  font-weight: 300;
+  text-transform: uppercase;
+  font-family: "Oswald", sans-serif;
+  background-image: linear-gradient(#ffc3ca, #a8a9e7);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+.about-text__body {
+  margin: 24px 0px;
+  text-align: left;
+  font-size: 1.2rem;
+}
+
+.about-social {
+  text-align: left;
+}
+.about-social__title {
+  margin-bottom: 0.6em;
+  letter-spacing: 0.1em;
+  font-style: italic;
+  color: #828ed4;
+  font-size: 1rem;
+}
+.about-social__links {
+}
+.about-social__link {
+  font-family: "Oswald", sans-serif;
+  text-transform: uppercase;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.3rem;
+  color: #828ed4 !important;
+}
+.about-social__link:after {
+  content: "-";
+  color: #828ed4;
+  margin: 0 0.5em;
+}
+.about-social__link:last-of-type:after {
+  content: "";
+  color: #828ed4;
+  margin: 0 0.5em;
+}
