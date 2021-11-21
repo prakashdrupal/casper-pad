@@ -29,12 +29,12 @@ function Menu() {
             <div className="menu-item__subtitle">Start fresh</div>
           </Link>
           <Link to="/work" className="menu-item">
-            <div className="menu-item__title">Connect Wallet</div>
+            <div className="menu-item__title">Projecs </div>
             <div className="menu-item__background" />
             <div className="menu-item__subtitle">This feature is coming soon.</div>
           </Link>
           <Link to="/about" className="menu-item">
-            <div className="menu-item__title">Projects</div>
+            <div className="menu-item__title">About</div>
             <div className="menu-item__background" />
             <div className="menu-item__subtitle">Our projects are on the way!</div>
           </Link>

@@ -8,7 +8,7 @@ function App() {
       <Particle params={particlesConfig} className="App-particles__container" />
       <div className="App">
         <div className="App-text">
-          <h1 className="App-text__title">CasperPad is the first official decentralized Launchpad built to launch next level projects on the Casper Network.
+          <h1 className="App-text__title">I build projects to learn how code works. I've been involved in the IT industry as Open Source Developer.
 </h1>
           {/* <h2 className="App-text__body">
             I am a full stack web and mobile developer
